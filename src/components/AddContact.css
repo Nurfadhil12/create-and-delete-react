@@ -1,0 +1,22 @@
+input,textarea{
+    width: 100%;
+    border: 1px solid #e2e2e2;
+    padding: 10px;
+    border-radius: 5px;
+}
+label{
+    font-weight: 600;
+}
+button{
+    background-color: blue;
+    color: #fff;
+    border: none;
+    width: 20%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #000;
+}
